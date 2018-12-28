@@ -1,0 +1,8 @@
+target/
+test-output
+.settings/
+.classpath
+.project
+velocity.log
+catalina.base_IS_UNDEFINED/
+.java-version
